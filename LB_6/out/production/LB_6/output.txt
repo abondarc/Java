@@ -1,0 +1,6 @@
+Abiturient{id=2, lastName='Петров', firstName='Петр', patronymic='Петрович', address='Адрес2', phoneNumber='987654321', grades=[85, 80, 95]}
+Abiturient{id=5, lastName='Сырников', firstName='Александр', patronymic='Петрович', address='Адрес5', phoneNumber='988954321', grades=[85, 80, 95]}
+Abiturient{id=1, lastName='Иванов', firstName='Иван', patronymic='Иванович', address='Адрес1', phoneNumber='123456789', grades=[80, 75, 90]}
+Abiturient{id=3, lastName='Сидоров', firstName='Сидор', patronymic='Сидорович', address='Адрес3', phoneNumber='456789012', grades=[70, 65, 80]}
+Abiturient{id=4, lastName='Лаптев', firstName='Иван', patronymic='Иванович', address='Адрес4', phoneNumber='123236789', grades=[80, 30, 90]}
+Abiturient{id=6, lastName='Бондарчук', firstName='Алексей', patronymic='Сидорович', address='Адрес6', phoneNumber='453489012', grades=[70, 20, 80]}
